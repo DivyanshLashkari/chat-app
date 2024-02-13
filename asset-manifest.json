@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DivyanshLashkari/chat-app/static/css/main.9d743f85.css",
-    "main.js": "/DivyanshLashkari/chat-app/static/js/main.c0100aab.js",
-    "index.html": "/DivyanshLashkari/chat-app/index.html",
-    "main.9d743f85.css.map": "/DivyanshLashkari/chat-app/static/css/main.9d743f85.css.map",
-    "main.c0100aab.js.map": "/DivyanshLashkari/chat-app/static/js/main.c0100aab.js.map"
+    "main.css": "/chat-app/static/css/main.9d743f85.css",
+    "main.js": "/chat-app/static/js/main.c0100aab.js",
+    "index.html": "/chat-app/index.html",
+    "main.9d743f85.css.map": "/chat-app/static/css/main.9d743f85.css.map",
+    "main.c0100aab.js.map": "/chat-app/static/js/main.c0100aab.js.map"
   },
   "entrypoints": [
     "static/css/main.9d743f85.css",
